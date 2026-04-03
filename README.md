@@ -37,8 +37,5 @@ Turn customer complaints into **moments of trust recovery** by:
 - **Frontend (optional):** HTML, JS, Vite.js  
 - **Deployment:** Docker / AWS / GCP
 -
-       **live Demo**
-       
-- **Live link**--[agentic-ai-cx-engine-po8cj9acf-madan901s-projects.vercel.app]
 
-
+You can view the live project **[here](https://agentic-ai-cx-engine-po8cj9acf-madan901s-projects.vercel.app)**.
