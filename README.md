@@ -39,6 +39,6 @@ Turn customer complaints into **moments of trust recovery** by:
 -
        **live Demo**
        
-- **Live link**--agentic-ai-cx-engine-po8cj9acf-madan901s-projects.vercel.app
+- **Live link**--[agentic-ai-cx-engine-po8cj9acf-madan901s-projects.vercel.app]
 
 
